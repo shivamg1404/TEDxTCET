@@ -1,2 +1,3 @@
 well I'M SHIVAM created an simple Android application.
-used technologies were: created webview with the existing tedxtcet website.
+used technologies were: AndroidStudio, Java
+created webview with the existing tedxtcet website.
